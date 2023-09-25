@@ -14,7 +14,7 @@ This is form by several sections:
    - About me
    - Social Network (Linkedin, Instagram, Github...)
 
-## Esquema de funcionamiento
+## Workflow
 
 ![Esquema](https://github.com/Adalab/project-promo-m-module-2-team-6/blob/main/src/images/Esquema.jpg)
 
