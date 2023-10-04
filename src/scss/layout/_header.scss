@@ -1,6 +1,12 @@
 .page__header {
   display: flex;
-  justify-content: space-evenly;
   margin-bottom: 3rem;
   text-transform:uppercase;
+  &--icon{
+    width: 30px;
+  }
+}
+
+.icon__header{
+  width: 30px;
 }
